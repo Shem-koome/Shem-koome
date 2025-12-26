@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **millionaireentreprise@gmail.com**
 
-- 📄 Know about me [https://shemkoome.gamer.gd/](https:shemkoome.gamer.gd/)
+- 📄 Know about me [(https://github.com/Shem-koome/portfolio.github.io)](https:shemkoome.gamer.gd/)
 
 - ⚡ Fun fact **I can debug code faster than I can decide what to eat for lunch. 🍔💻**
 

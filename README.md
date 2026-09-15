@@ -155,7 +155,7 @@ Petrol station operations platform with separate admin and employee dashboards f
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Shem-koome&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.onrender.com/?user=Shem-koome&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 

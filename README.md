@@ -4,8 +4,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shemkoome.gamer.gd-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shemkoome.gamer.gd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shem_koome)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shemkoome.gamer.gd-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shem-koome-9029bb403/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tweetbyshem)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shemkoome)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shemkoome@gmail.com)
@@ -18,24 +18,16 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const shem = {
-  role: "Full Stack Developer",
-  location: "Nairobi, Kenya 🇰🇪",
-  education: "BSc. Computer Science — Karatina University ('25)",
-  currentlyBuilding: ["TypeScript web apps", "Flutter mobile apps", "AI/ML tools"],
-  currentlyLearning: ["Cybersecurity", "Advanced Python"],
-  openTo: ["AI/ML collaborations", "Open source", "Freelance work"],
-  askMeAbout: ["Flutter", "Flask", "TypeScript", "MySQL", "AI/ML"],
-  funFact: "I can debug code faster than I can decide what to eat for lunch 🍔💻"
-};
-```
+> 🎓 **BSc. Computer Science** — Karatina University (2025)
+> 📍 Based in **Nairobi, Kenya** 🇰🇪
 
-- 🔭 Currently shipping **TypeScript, Flutter & SQL** projects
+- 🔭 Currently building **TypeScript web apps**, **Flutter mobile apps** & **AI/ML tools**
 - 🏆 **2nd overall** in Agriculture — Origin Fest Hackathon @ DeKUT
-- 🌱 Diving deep into **cybersecurity** and **production ML**
-- 💬 Open to collaborating on **AI/ML** projects
+- 🌱 Currently learning **Cybersecurity** & **Advanced Python**
+- 👯 Open to collaborating on **AI/ML**, open source & freelance work
+- 💬 Ask me about **Flutter · Flask · TypeScript · MySQL · AI/ML**
 - 📫 Reach me at **shemkoome@gmail.com**
+- ⚡ Fun fact: I can debug code faster than I can decide what to eat for lunch 🍔💻
 
 ---
 
@@ -50,6 +42,7 @@ const shem = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -146,6 +139,7 @@ Petrol station operations platform with separate admin and employee dashboards f
 
 | Role | Company | Period |
 |------|---------|--------|
+| Full Stack Developer | **Pesacom Technologies** | Oct 2025 – Present |
 | Full Stack Developer | **Agri-Vision AI** | Jan 2025 – May 2025 |
 | Web Developer | **Pesafy Africa** | May 2024 – Sept 2024 |
 | Graphics Designer | **Haki Solutions** | Jan 2023 – Jan 2025 |
@@ -156,7 +150,7 @@ Petrol station operations platform with separate admin and employee dashboards f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shem-koome&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shem's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shem-koome&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Shem's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shem-koome&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>

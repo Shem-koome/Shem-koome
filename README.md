@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shemkoome.gamer.gd-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-shemkoome.gamer.gd-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shemkoome.gamer.gd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shem-koome-9029bb403/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tweetbyshem)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shemkoome)
@@ -150,7 +150,7 @@ Petrol station operations platform with separate admin and employee dashboards f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shem-koome&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Shem's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shem-koome&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Shem's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shem-koome&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
